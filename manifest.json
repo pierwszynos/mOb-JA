@@ -1,5 +1,5 @@
 {
-  "short_name": "MojaApka",
+  "short_name": "mObywatel",
   "name": "Moja Aplikacja HTML",
   "icons": [
     {
@@ -11,6 +11,6 @@
   ],
   "start_url": "./index.html",
   "background_color": "#ffffff",
-  "display": "standalone",
+  "display": "fullscreen",
   "theme_color": "#000000"
 }
